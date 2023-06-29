@@ -1,0 +1,30 @@
+form{
+    margin-top: 2em;
+}
+
+.heading{
+    margin-top: 1em;
+}
+
+input{
+    width: 20%;
+    height: 2em;
+    font-size: medium;
+    margin-bottom: 1em;
+}
+
+button{
+    font-size: medium;
+    margin-bottom: 1em;
+}
+button:focus {
+    outline: 2px solid blue;
+}
+
+.container{
+    border: 1px solid lightgray;
+    border-radius: 0.25em;
+    box-shadow: 1em 1em 5em gray;
+    margin: 6em 25em;
+    padding-bottom: 1em;
+}
